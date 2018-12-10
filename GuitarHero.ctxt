@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=GuitarHero
+comment0.text=\n\ CS312\ Assignment\ 12.\n\n\ On\ my\ honor,\ <Jiayi\ Zhou>,\ this\ programming\ assignment\ is\ my\ own\ work\ and\ I\ have\n\ not\ shared\ my\ solution\ with\ any\ other\ student\ in\ the\ class.\n\n\ A\ program\ to\ play\ Rock\ Paper\ Scissors\n\n\ \ email\ address\:judyzhou959@utexas.edu\n\ \ UTEID\:jz22393\n\ \ Unique\ 5\ digit\ course\ ID\:51410\n\ \ Grader\ name\:Omer\n\ \ Number\ of\ slip\ days\ used\ on\ this\ assignment\:0\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=stringList\ keyboard
+comment2.target=void\ play(GuitarString[],\ java.lang.String)
+numComments=3

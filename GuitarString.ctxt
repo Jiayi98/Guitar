@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=GuitarString
+comment0.text=\n\ CS312\ Assignment\ 12.\n\n\ On\ my\ honor,\ <Jiayi\ Zhou>,\ this\ programming\ assignment\ is\ my\ own\ work\ and\ I\ have\n\ not\ shared\ my\ solution\ with\ any\ other\ student\ in\ the\ class.\n\n\ A\ program\ to\ play\ Rock\ Paper\ Scissors\n\n\ \ email\ address\:judyzhou959@utexas.edu\n\ \ UTEID\:jz22393\n\ \ Unique\ 5\ digit\ course\ ID\:51410\n\ \ Grader\ name\:Omer\n\ \ Number\ of\ slip\ days\ used\ on\ this\ assignment\:0\n
+comment1.params=frequency
+comment1.target=GuitarString(double)
+comment2.params=init
+comment2.target=GuitarString(double[])
+comment3.params=
+comment3.target=void\ pluck()
+comment4.params=
+comment4.target=void\ tic()
+comment5.params=
+comment5.target=double\ sample()
+comment6.params=
+comment6.target=int\ time()
+numComments=7
